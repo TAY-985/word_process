@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../my/pag/.idea/pag.iml" filepath="$PROJECT_DIR$/../my/pag/.idea/pag.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyqtDemo/.idea/pyqtDemo.iml" filepath="$PROJECT_DIR$/../pyqtDemo/.idea/pyqtDemo.iml" />
+      <module fileurl="file://E:/毕设/text_cluster/text_cluster_ensemble/.idea/text_cluster_ensemble.iml" filepath="E:/毕设/text_cluster/text_cluster_ensemble/.idea/text_cluster_ensemble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/word_process.iml" filepath="$PROJECT_DIR$/.idea/word_process.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../zaban/.idea/zaban.iml" filepath="$PROJECT_DIR$/../zaban/.idea/zaban.iml" />
+    </modules>
+  </component>
+</project>
